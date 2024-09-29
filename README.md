@@ -9,5 +9,3 @@
   * 백엔드 WebConfig.java 구성을 통해 백엔드 api 요청 외 내용은 프론트엔드로 전달됨
     * 요청된 리소스가 존재하지 않을 경우 /index.html 로 반환하여 프론트엔드 라우터 동작되는 구조
 
-* [클라우드타입](https://cloudtype.io/) 연동을 위한 github action 구성
-  * 현재 작업 중
