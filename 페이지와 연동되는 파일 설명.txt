@@ -1,0 +1,17 @@
+페이지와 연동되는 파일 설명
+vs.code
+src/components/AdminBooks.vue : 연동 페이지명-도서검색123
+./BookCard.vue : 도서 서식 (카드)
+./BookList.vue : 도서 서식 (나열)
+./SearchBar.vue : 검색창 
+./LibrarySearch.vue : 도서관 조회용으로 일단 만들어두긴했는데 안 씀...
+./NaviLinks.vue : 모바일용 헤더 (메인, 도서 검색, 등의 글자 수정에 사용)
+./Header.vue : 컴퓨터용 헤더
+
+src/views/BookSearch.vue : 연동 페이지명- 도서 검색
+src/views/BookRecommendations.vue : 연동 페이지명 - 도서 추천 페이지
+./LibrarySearch.vue : 도서관 조회용으로 만들었는데 안 씀...
+
+intellij
+Dump20241013.sql
+도서 검색, 도서관 정보용 db
