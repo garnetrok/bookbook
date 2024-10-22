@@ -15,3 +15,10 @@ src/views/BookRecommendations.vue : 연동 페이지명 - 도서 추천 페이�
 intellij
 Dump20241013.sql
 도서 검색, 도서관 정보용 db
+
+
+*1022 백엔드 수정
+BookController
+@RequestParam(defaultValue = "999") int size) {
+
+수정사유: 검색 시 검색 도서의 호출 문제 해결을 위해.
